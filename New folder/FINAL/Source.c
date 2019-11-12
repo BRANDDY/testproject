@@ -199,5 +199,6 @@ int main() {
 	int a2 = pair(hole_2);
 	printf("a1=%d\na2=%d", a1, a2);
 	count(&a1, &a2, hole_1, hole_2);
+	//123123
 	return 0;
 }
